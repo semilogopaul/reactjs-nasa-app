@@ -158,12 +158,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    color: white;
     flex: 1;
   }
   
   .loadingState i {
     opacity: 0.2;
-    font-size: 3rem;
+    font-size: 3.5rem;
     animation: spin 1s linear infinite;
   }
   
